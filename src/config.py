@@ -8,4 +8,9 @@ FEATURES_TO_REMOVE = [
     'Permuta por'
 ]
 
-# Outras configs
+FEATURES_TO_GROUP = ["Finalidade", "Cidade", "Bairro"]
+
+# Here you can input the Feature you want to group, and value is the limit.
+FEATURES_TO_GROUP = {"Finalidade":30, "Cidade":10, "Bairro":5}
+
+# Other configs

@@ -1,0 +1,3 @@
+venv/
+*.xls
+__pycache__/
