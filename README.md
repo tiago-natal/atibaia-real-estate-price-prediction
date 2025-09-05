@@ -1,5 +1,7 @@
 ## Atibaia Real Estate Price Prediction
 
+![Project Banner](./images/Predictive_Model_Performance_Darkmode.png)
+
 For my first portfolio project, I tackled the challenge of real estate valuation in Atibaia, Brazil. My goal was to move beyond subjective, manual appraisals and build a machine learning model that could offer a more consistent and data informed pricing baseline for real estate professionals.
 
 ### Core Problem
